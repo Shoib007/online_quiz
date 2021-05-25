@@ -1,2 +1,2 @@
-# online_quiz
-I have created a quiz web application very easly with pure JavaScript.
+# Online Quiz Web App 
+## This is very sipmple quiz web application made with HTML, CSS and pure JavaScript.
